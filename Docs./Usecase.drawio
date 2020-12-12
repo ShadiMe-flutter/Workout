@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T08:05:07.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="14.0.1" etag="w84CeteAEQssSaer-E4b" type="github"><diagram id="X7u0g1ZM7QvqLgqPCPlT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-12T13:20:26.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="NR9Iy4u6kyreRXYIe4MR" version="14.0.1" type="github">
+  <diagram id="X7u0g1ZM7QvqLgqPCPlT" name="Page-1">
+    <mxGraphModel dx="786" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="olIbsoz4N34cVF9OGXnP-1" value="User&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="230" y="20" width="300" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-5" value="Authentication" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="50" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-6" value="Log in" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-7" value="Sign up" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-9" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.145;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="olIbsoz4N34cVF9OGXnP-6" target="olIbsoz4N34cVF9OGXnP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="140" as="sourcePoint" />
+            <mxPoint x="340" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-15" value="" style="endArrow=none;dashed=1;html=1;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="olIbsoz4N34cVF9OGXnP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="150" as="sourcePoint" />
+            <mxPoint x="425" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-16" value="include" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=305;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-18" value="include" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=65;" vertex="1" parent="1">
+          <mxGeometry x="425" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-19" value="Community" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-20" value="Activities" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-21" value="Workouts" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="olIbsoz4N34cVF9OGXnP-22" value="Edit profile" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
