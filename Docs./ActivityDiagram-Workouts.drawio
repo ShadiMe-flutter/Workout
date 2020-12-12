@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T18:26:11.765Z" agent="5.0 (Windows)" version="14.0.1" etag="U-fyWVsoawMfNvw6ilo9" type="github"><diagram id="jmLqI_bmirR8lDSJ05qI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-12T19:58:17.740Z" agent="5.0 (Windows)" etag="LcJrlt9UfpibGc96vTfJ" version="14.0.1" type="github">
+  <diagram id="jmLqI_bmirR8lDSJ05qI" name="Page-1">
+    <mxGraphModel dx="782" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ii58U5-KhCmSqPeSkbvI-2" target="ii58U5-KhCmSqPeSkbvI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-2" value="&lt;div&gt;انتخاب دکمه ی &lt;br&gt;&lt;/div&gt;&lt;div&gt;Workouts&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ii58U5-KhCmSqPeSkbvI-4" target="ii58U5-KhCmSqPeSkbvI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-4" value="نمایش لیست دوره های ورزشی پیشنهادی و کلی" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ii58U5-KhCmSqPeSkbvI-6" target="ii58U5-KhCmSqPeSkbvI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-6" value="&lt;div&gt;انتخاب دوره ی ورزشی &lt;br&gt;&lt;/div&gt;&lt;div&gt;مورد نظر&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ii58U5-KhCmSqPeSkbvI-8" target="ii58U5-KhCmSqPeSkbvI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-8" value="نمایش جزییات و ویدیو های دوره ی ورزشی انتخاب شده " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ii58U5-KhCmSqPeSkbvI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-10" value="&lt;div&gt;انتخاب گزینه ی &lt;br&gt;&lt;/div&gt;&lt;div&gt;Start workout&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-11" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="155" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1" source="ii58U5-KhCmSqPeSkbvI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="155" y="950" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-14" value="&lt;b&gt;Workouts activity diagram&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="65" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-19" value="ثبت اطلاعات در پایگاه داده" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.5" y="910" as="sourcePoint" />
+            <mxPoint x="170" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-21" value="&lt;div&gt;انتخاب گزینه ی &lt;br&gt;&lt;/div&gt;&lt;div&gt;End workout&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-22" value="نمایش پیام تشویقی برای کاربر" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.5" y="710" as="sourcePoint" />
+            <mxPoint x="170" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ii58U5-KhCmSqPeSkbvI-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.5" y="810" as="sourcePoint" />
+            <mxPoint x="170" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
