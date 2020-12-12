@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T17:41:45.647Z" agent="5.0 (Windows)" etag="qjiMtrV4-yjVwMZGTyrt" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T18:10:16.330Z" agent="5.0 (Windows)" etag="WY6hl0Trij8Ogrb8aKXV" version="14.0.1" type="github">
   <diagram id="X7u0g1ZM7QvqLgqPCPlT" name="Page-1">
     <mxGraphModel dx="782" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,16 +38,16 @@
           <mxGeometry x="425" y="110" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="olIbsoz4N34cVF9OGXnP-19" value="Community" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="330" y="430" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="olIbsoz4N34cVF9OGXnP-20" value="Activities" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="360" width="90" height="40" as="geometry" />
+          <mxGeometry x="330" y="360" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="olIbsoz4N34cVF9OGXnP-21" value="Workouts" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="330" y="290" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="olIbsoz4N34cVF9OGXnP-22" value="Edit profile" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="220" width="90" height="40" as="geometry" />
+        <mxCell id="olIbsoz4N34cVF9OGXnP-22" value="Complete profile info" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="330" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LyJIlv4ja3EHjR3H1L-G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="olIbsoz4N34cVF9OGXnP-19">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +55,7 @@
             <mxPoint x="280" y="415" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="260" />
-              <mxPoint x="160" y="450" />
+              <mxPoint x="160" y="455" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,7 +65,7 @@
             <mxPoint x="140" y="260" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="180" y="260" />
-              <mxPoint x="180" y="380" />
+              <mxPoint x="180" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,13 +80,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LyJIlv4ja3EHjR3H1L-G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="olIbsoz4N34cVF9OGXnP-22">
+        <mxCell id="LyJIlv4ja3EHjR3H1L-G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="260" as="sourcePoint" />
-            <mxPoint x="290" y="220" as="targetPoint" />
+            <mxPoint x="330" y="239" as="targetPoint" />
             <Array as="points">
               <mxPoint x="270" y="260" />
-              <mxPoint x="270" y="233" />
+              <mxPoint x="270" y="239" />
             </Array>
           </mxGeometry>
         </mxCell>
