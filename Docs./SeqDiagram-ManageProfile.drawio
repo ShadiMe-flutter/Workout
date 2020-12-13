@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T05:27:45.752Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="JILlPA17ILayTZnIypt_" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T05:29:59.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="LK-cENbXFG0Db-3NWwxN" version="14.0.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="786" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="20" width="20" height="650" as="geometry" />
         </mxCell>
         <mxCell id="Bo3psH5uF7-XkX_DlGIA-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Bo3psH5uF7-XkX_DlGIA-1">
-          <mxGeometry x="10" y="360" width="10" height="160" as="geometry" />
+          <mxGeometry x="10" y="360" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Bo3psH5uF7-XkX_DlGIA-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;صفحه نمایش&lt;br&gt;&lt;/font&gt;&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="100" height="650" as="geometry" />
