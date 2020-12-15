@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T08:57:07.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="14.0.1" etag="9BgMgny9_1-YuJt8vs2m" type="github"><diagram id="gclrW9IZEGYl_Us_NXqO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-15T08:59:17.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="Be5s7fVhyqjVXQFFvbt9" version="14.0.1" type="github">
+  <diagram id="gclrW9IZEGYl_Us_NXqO" name="Page-1">
+    <mxGraphModel dx="786" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ecLLTJah2uslzvCgLHW6-1" value="User&lt;br&gt;&lt;br&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ecLLTJah2uslzvCgLHW6-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;صفحه نمایش&lt;br&gt;&lt;/font&gt;&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ecLLTJah2uslzvCgLHW6-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ecLLTJah2uslzvCgLHW6-2">
+          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ecLLTJah2uslzvCgLHW6-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ecLLTJah2uslzvCgLHW6-2">
+          <mxGeometry x="48" y="140" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ecLLTJah2uslzvCgLHW6-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;درخواست مشاهده ی کاربران مشابه&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" parent="1" target="ecLLTJah2uslzvCgLHW6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="43" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ecLLTJah2uslzvCgLHW6-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;صفحه ای شامل لیست کاربران &lt;br&gt;با دوره ی ورزشی مشابه کاربر باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1" target="ecLLTJah2uslzvCgLHW6-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332.5" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="357.5" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ecLLTJah2uslzvCgLHW6-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="10" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
