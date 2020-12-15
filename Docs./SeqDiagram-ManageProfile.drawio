@@ -1,42 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T05:29:59.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="LK-cENbXFG0Db-3NWwxN" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T08:53:45.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="C9IEHUIHxgW178NThkS9" version="14.0.1" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="786" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-1" value="User&lt;br&gt;&lt;br&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=50;" vertex="1" parent="1">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-1" value="User&lt;br&gt;&lt;br&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=50;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="20" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Bo3psH5uF7-XkX_DlGIA-1">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Bo3psH5uF7-XkX_DlGIA-1" vertex="1">
           <mxGeometry x="10" y="360" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;صفحه نمایش&lt;br&gt;&lt;/font&gt;&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;صفحه نمایش&lt;br&gt;&lt;/font&gt;&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="20" width="100" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Bo3psH5uF7-XkX_DlGIA-5">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Bo3psH5uF7-XkX_DlGIA-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Bo3psH5uF7-XkX_DlGIA-5">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Bo3psH5uF7-XkX_DlGIA-5" vertex="1">
           <mxGeometry x="48" y="140" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Bo3psH5uF7-XkX_DlGIA-5">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Bo3psH5uF7-XkX_DlGIA-5" vertex="1">
           <mxGeometry x="45" y="210" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Bo3psH5uF7-XkX_DlGIA-5">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Bo3psH5uF7-XkX_DlGIA-5" vertex="1">
           <mxGeometry x="45" y="360" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-11" value="user" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-11" value="user" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="20" width="100" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Bo3psH5uF7-XkX_DlGIA-11">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Bo3psH5uF7-XkX_DlGIA-11" vertex="1">
           <mxGeometry x="45" y="250" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;درخواست تکمیل پروفایل&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;exitX=1.3;exitY=0.089;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bo3psH5uF7-XkX_DlGIA-4" target="Bo3psH5uF7-XkX_DlGIA-6">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;درخواست تکمیل پروفایل&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;exitX=1.3;exitY=0.089;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Bo3psH5uF7-XkX_DlGIA-4" target="Bo3psH5uF7-XkX_DlGIA-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="113" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;صفحه ی مورد نظر باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1" target="Bo3psH5uF7-XkX_DlGIA-7">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;صفحه ی مورد نظر باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="1" target="Bo3psH5uF7-XkX_DlGIA-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="332.5" y="120" as="sourcePoint" />
             <Array as="points">
@@ -44,36 +44,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;وارد کردن اطلاعات&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.4;exitY=0.389;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="Bo3psH5uF7-XkX_DlGIA-6" source="Bo3psH5uF7-XkX_DlGIA-4">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-15" value="&lt;font style=&quot;font-size: 12px&quot;&gt;وارد کردن اطلاعات&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.1;exitY=0.33;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Bo3psH5uF7-XkX_DlGIA-4" target="Bo3psH5uF7-XkX_DlGIA-6" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="130" y="170" as="sourcePoint" />
             <mxPoint x="200" y="170.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-16" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;کلیک کردن دکمه تایید&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" parent="1" target="Bo3psH5uF7-XkX_DlGIA-8">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-16" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;کلیک کردن دکمه تایید&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="1" target="Bo3psH5uF7-XkX_DlGIA-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="41" y="233" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;ثبت در پایگاه داده&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" source="Bo3psH5uF7-XkX_DlGIA-8" target="Bo3psH5uF7-XkX_DlGIA-12">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;ثبت در پایگاه داده&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="Bo3psH5uF7-XkX_DlGIA-8" target="Bo3psH5uF7-XkX_DlGIA-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="535" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;نمایش نتیجه موفقیت&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1" source="Bo3psH5uF7-XkX_DlGIA-12" target="Bo3psH5uF7-XkX_DlGIA-8">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;نمایش نتیجه موفقیت&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="Bo3psH5uF7-XkX_DlGIA-12" target="Bo3psH5uF7-XkX_DlGIA-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="535" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-19" value="&lt;font style=&quot;font-size: 12px&quot;&gt;درخواست مشاهده ی پروفایل&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;exitX=1;exitY=0.092;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bo3psH5uF7-XkX_DlGIA-2" target="Bo3psH5uF7-XkX_DlGIA-9">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-19" value="&lt;font style=&quot;font-size: 12px&quot;&gt;درخواست مشاهده ی پروفایل&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;entryX=0.1;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Bo3psH5uF7-XkX_DlGIA-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="380" as="sourcePoint" />
+            <mxPoint x="35" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="330" y="440" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;صفحه پروفایل باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1" target="Bo3psH5uF7-XkX_DlGIA-20">
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;صفحه پروفایل باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="1" target="Bo3psH5uF7-XkX_DlGIA-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="400" as="sourcePoint" />
             <Array as="points">
@@ -81,8 +82,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bo3psH5uF7-XkX_DlGIA-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="30" y="100" width="10" height="180" as="geometry" />
+        <mxCell id="Bo3psH5uF7-XkX_DlGIA-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="30" y="100" width="10" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
