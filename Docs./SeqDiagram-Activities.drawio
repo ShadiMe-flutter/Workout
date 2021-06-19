@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T08:56:34.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="-btoll-si8XhC27GUB6s" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-19T09:31:41.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="e5E4crJX43UyFAxvgh6I" version="14.7.9" type="github">
   <diagram id="ugdf-8wClFi1usD2ORvL" name="Page-1">
-    <mxGraphModel dx="786" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SlMkbRb0abEWhEXNu_CT-1" value="User&lt;br&gt;&lt;br&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=50;" vertex="1" parent="1">
+        <mxCell id="SlMkbRb0abEWhEXNu_CT-1" value="کاربر" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=40;fontFamily=B Zar;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="20" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="SlMkbRb0abEWhEXNu_CT-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;صفحه نمایش&lt;br&gt;&lt;/font&gt;&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SlMkbRb0abEWhEXNu_CT-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;صفحه نمایش&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontFamily=B Zar;fontSize=13;verticalAlign=middle;fillColor=#BFBFBF;" parent="1" vertex="1">
           <mxGeometry x="280" y="20" width="100" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="SlMkbRb0abEWhEXNu_CT-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="SlMkbRb0abEWhEXNu_CT-2">
+        <mxCell id="SlMkbRb0abEWhEXNu_CT-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" parent="SlMkbRb0abEWhEXNu_CT-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SlMkbRb0abEWhEXNu_CT-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="SlMkbRb0abEWhEXNu_CT-2">
+        <mxCell id="SlMkbRb0abEWhEXNu_CT-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#28408E;" parent="SlMkbRb0abEWhEXNu_CT-2" vertex="1">
           <mxGeometry x="48" y="140" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="SlMkbRb0abEWhEXNu_CT-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;درخواست مشاهده ی فعالیت های کاربر&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" parent="1" target="SlMkbRb0abEWhEXNu_CT-3">
+        <mxCell id="SlMkbRb0abEWhEXNu_CT-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;درخواست مشاهده ی فعالیت های کاربر&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;strokeColor=#28408E;" parent="1" target="SlMkbRb0abEWhEXNu_CT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="43" y="110" as="sourcePoint" />
             <Array as="points">
@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SlMkbRb0abEWhEXNu_CT-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;صفحه ای شامل لیست دوره های گذرانده&lt;br&gt;&amp;nbsp;BMI و دوره های فعال &amp;nbsp;و نمودار&lt;br&gt;باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1" target="SlMkbRb0abEWhEXNu_CT-4">
+        <mxCell id="SlMkbRb0abEWhEXNu_CT-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;صفحه ای شامل لیست دوره های گذرانده باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeColor=#28408E;" parent="1" target="SlMkbRb0abEWhEXNu_CT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="332.5" y="120" as="sourcePoint" />
             <Array as="points">
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SlMkbRb0abEWhEXNu_CT-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="SlMkbRb0abEWhEXNu_CT-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" parent="1" vertex="1">
           <mxGeometry x="30" y="100" width="10" height="140" as="geometry" />
         </mxCell>
       </root>
