@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T10:21:36.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.7.9" etag="D1XGyWw0bUVYwSTesIcP" type="github"><diagram id="ym1CUKuhLX5YTalzTco0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-19T10:24:04.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Loi5BxlRxlLtvBTq3jDu" version="14.7.9" type="github">
+  <diagram id="ym1CUKuhLX5YTalzTco0" name="Page-1">
+    <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="145" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_lBdKHmWT1cDGVqm-b7-1" target="E_lBdKHmWT1cDGVqm-b7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="150" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_lBdKHmWT1cDGVqm-b7-4" target="E_lBdKHmWT1cDGVqm-b7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-4" value="&lt;div&gt;انتخاب دکمه ی &lt;br&gt;&lt;/div&gt;&lt;div&gt;درباره ما&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E_lBdKHmWT1cDGVqm-b7-6" target="E_lBdKHmWT1cDGVqm-b7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-6" value="نمایش صفحه درباره ما" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="145" y="440" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_lBdKHmWT1cDGVqm-b7-8" value="&lt;b&gt;Aboutus activity diagram&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="70" width="130" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
