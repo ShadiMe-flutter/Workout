@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T10:55:35.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="6dFvu124zxDj2E3kk5zh" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T04:36:04.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="JjzSY4kTZAr7fzjlpHaI" version="14.8.0" type="github">
   <diagram id="cUkqLEEOOj07QgNQOSys" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         </mxCell>
         <mxCell id="9vAfnKZuEogmpyG12Bn7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9vAfnKZuEogmpyG12Bn7-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="810" as="targetPoint" />
+            <mxPoint x="140" y="500" as="targetPoint" />
             <mxPoint x="140" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -134,8 +134,17 @@
         <mxCell id="9vAfnKZuEogmpyG12Bn7-38" value="&lt;b&gt;Authentication activity diagram&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="432" y="103" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jt6DGCesJBzGl5rZxC4x-1" value="&lt;font face=&quot;B Zar&quot; style=&quot;font-size: 13px&quot;&gt;ایجاد تغییرات در پایگاه داده&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jt6DGCesJBzGl5rZxC4x-1" value="&lt;font face=&quot;B Zar&quot; style=&quot;font-size: 13px&quot;&gt;ایجاد تغییرات در پایگاه داده&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn8KKuoEa_iqCSRoonan-1" value="&lt;font face=&quot;B Zar&quot; style=&quot;font-size: 13px&quot;&gt;وارد کردن تکرار رمز عبور&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn8KKuoEa_iqCSRoonan-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jt6DGCesJBzGl5rZxC4x-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.5" y="560" as="sourcePoint" />
+            <mxPoint x="139.5" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
