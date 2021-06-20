@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T04:38:12.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="szsdMyIFa_6mfJ5-KoV1" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T05:20:55.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="uEiSiYse86QzEpAQ9-WS" version="14.8.0" type="github">
   <diagram id="6G7ujvmzATYOezFDr81h" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,9 +11,6 @@
         </mxCell>
         <mxCell id="63PwRGhciHyG-fb_nBJa-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="315" y="790" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="63PwRGhciHyG-fb_nBJa-8" value="&lt;b&gt;Manage profile&amp;nbsp; activity diagram&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="110" width="130" height="10" as="geometry" />
         </mxCell>
         <mxCell id="63PwRGhciHyG-fb_nBJa-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="380" width="120" height="60" as="geometry" />
