@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T08:09:08.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="tB11gnHV7abHzyAOHeK6" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T10:06:53.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="tEaRQ_nPQYRTuKP3ukSh" version="14.8.0" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1117" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="78961159f06e98e8-51" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="78961159f06e98e8-43" vertex="1">
           <mxGeometry y="104" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="6QdSG1pBMYWLXJsXz6J8-19" value="&amp;nbsp;+ Show categories()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="78961159f06e98e8-43" vertex="1">
+        <mxCell id="6QdSG1pBMYWLXJsXz6J8-19" value="&amp;nbsp;+ All workouts()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="78961159f06e98e8-43" vertex="1">
           <mxGeometry y="112" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6QdSG1pBMYWLXJsXz6J8-21" value="Sessions" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#5EBEA0;" parent="1" vertex="1">
