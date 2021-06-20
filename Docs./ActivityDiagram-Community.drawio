@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T10:58:05.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="wyYY1h0TJdO3emlpcd_P" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T04:36:33.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="wevd8MJ-yPZWQgSDAdQM" version="14.8.0" type="github">
   <diagram id="ZJVrBKJgZ6AO6duT7ITB" name="Page-1">
-    <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iygFAxfcVMYQyXbJ4-kD-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="145" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iygFAxfcVMYQyXbJ4-kD-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iygFAxfcVMYQyXbJ4-kD-1" edge="1" target="iygFAxfcVMYQyXbJ4-kD-4">
+        <mxCell id="iygFAxfcVMYQyXbJ4-kD-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iygFAxfcVMYQyXbJ4-kD-1" target="iygFAxfcVMYQyXbJ4-kD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="150" as="targetPoint" />
           </mxGeometry>
@@ -15,13 +15,13 @@
         <mxCell id="iygFAxfcVMYQyXbJ4-kD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iygFAxfcVMYQyXbJ4-kD-4" target="iygFAxfcVMYQyXbJ4-kD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iygFAxfcVMYQyXbJ4-kD-4" value="&lt;div&gt;انتخاب دکمه ی &lt;br&gt;&lt;/div&gt;&lt;div&gt;دوره های پیشنهادی&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iygFAxfcVMYQyXbJ4-kD-4" value="&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot; face=&quot;B Zar&quot;&gt;انتخاب دکمه ی &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot; face=&quot;B Zar&quot;&gt;دوره های پیشنهادی&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iygFAxfcVMYQyXbJ4-kD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iygFAxfcVMYQyXbJ4-kD-6" target="iygFAxfcVMYQyXbJ4-kD-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iygFAxfcVMYQyXbJ4-kD-6" value="BMIنمایش مقدار&lt;br&gt;و&amp;nbsp;لیست دوره های پیشنهادی&lt;br&gt;&amp;nbsp;به کاربر&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iygFAxfcVMYQyXbJ4-kD-6" value="&lt;font face=&quot;B Zar&quot; style=&quot;font-size: 13px&quot;&gt;BMIنمایش مقدار&lt;br&gt;و&amp;nbsp;لیست دوره های پیشنهادی&lt;br&gt;&amp;nbsp;به کاربر&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iygFAxfcVMYQyXbJ4-kD-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
