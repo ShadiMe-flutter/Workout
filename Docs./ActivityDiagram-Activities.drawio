@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T10:40:42.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="PuPIThUxCCHfRw76P6X6" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T05:20:28.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="gfKsUmk8q7we7609T_Id" version="14.8.0" type="github">
   <diagram id="4pYha-k8S1XVQ5vFVGsV" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="9VIxt5FOkVmZYWYPC6V8-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="145" y="80" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9VIxt5FOkVmZYWYPC6V8-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9VIxt5FOkVmZYWYPC6V8-1" edge="1" target="9VIxt5FOkVmZYWYPC6V8-4">
+        <mxCell id="9VIxt5FOkVmZYWYPC6V8-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9VIxt5FOkVmZYWYPC6V8-1" target="9VIxt5FOkVmZYWYPC6V8-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="150" as="targetPoint" />
             <Array as="points" />
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="9VIxt5FOkVmZYWYPC6V8-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="145" y="440" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9VIxt5FOkVmZYWYPC6V8-8" value="&lt;b&gt;Activities activity diagram&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="375" y="70" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
