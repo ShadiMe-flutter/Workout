@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T06:02:02.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="kqTb8V_1VGq5B5oqfGk4" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T07:12:25.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-QXv_seby6HZv2EIekJS" version="14.8.2" type="github">
   <diagram id="ugdf-8wClFi1usD2ORvL" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="20" width="20" height="350" as="geometry" />
         </mxCell>
         <mxCell id="SlMkbRb0abEWhEXNu_CT-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;صفحه نمایش&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontFamily=B Zar;fontSize=13;verticalAlign=middle;fillColor=#BFBFBF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="20" width="100" height="340" as="geometry" />
+          <mxGeometry x="280" y="20" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="SlMkbRb0abEWhEXNu_CT-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" parent="SlMkbRb0abEWhEXNu_CT-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
@@ -33,7 +33,7 @@
           <mxGeometry x="30" y="100" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fMqmUE3b3NMQiMcMnuWo-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;تاریخچه&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;gradientDirection=south;fillColor=#BFBFBF;fontStyle=1;fontFamily=B Zar;" vertex="1" parent="1">
-          <mxGeometry x="570" y="20" width="100" height="640" as="geometry" />
+          <mxGeometry x="570" y="20" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="fMqmUE3b3NMQiMcMnuWo-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="fMqmUE3b3NMQiMcMnuWo-1">
           <mxGeometry x="45" y="90" width="10" height="60" as="geometry" />
