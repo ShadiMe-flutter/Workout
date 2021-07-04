@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-06-19T09:49:05.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="egteINccpt-Ce5QfsQZS" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T07:08:51.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="0jwNkguVcXJYT2VqG6oG" version="14.8.2" type="github">
   <diagram id="gclrW9IZEGYl_Us_NXqO" name="Page-1">
-    <mxGraphModel dx="782" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ecLLTJah2uslzvCgLHW6-1" value="&lt;font face=&quot;B Zar&quot; style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;کاربر&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=40;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="20" height="350" as="geometry" />
+          <mxGeometry x="20" y="20" width="20" height="590" as="geometry" />
         </mxCell>
         <mxCell id="ecLLTJah2uslzvCgLHW6-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;صفحه نمایش&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=13;fontFamily=B Zar;fontStyle=1;fillColor=#BFBFBF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="20" width="100" height="340" as="geometry" />
+          <mxGeometry x="280" y="20" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="ecLLTJah2uslzvCgLHW6-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" parent="ecLLTJah2uslzvCgLHW6-2" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ecLLTJah2uslzvCgLHW6-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#28408E;" parent="ecLLTJah2uslzvCgLHW6-2" vertex="1">
-          <mxGeometry x="48" y="140" width="10" height="10" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ecLLTJah2uslzvCgLHW6-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;درخواست مشاهده ی دوره های پیشنهادی&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;fontSize=13;fontFamily=B Zar;strokeColor=#28408E;" parent="1" target="ecLLTJah2uslzvCgLHW6-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -24,16 +21,118 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ecLLTJah2uslzvCgLHW6-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;صفحه ای شامل مقدار&lt;br style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; و لیست دوره های پیشنهادی BMI&lt;br style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;باز می شود&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontFamily=B Zar;fontSize=13;strokeColor=#28408E;" parent="1" target="ecLLTJah2uslzvCgLHW6-4" edge="1">
+        <mxCell id="ecLLTJah2uslzvCgLHW6-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="100" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-1" value="دوره ها" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontFamily=B Zar;fontSize=13;fontStyle=1;fillColor=#BFBFBF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="20" width="100" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-2" value="تاریخچه" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontFamily=B Zar;fontSize=13;fontStyle=1;fillColor=#BFBFBF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="20" width="100" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="x91RRcyRa2O_VJ76zCkE-2">
+          <mxGeometry x="45" y="470" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="x91RRcyRa2O_VJ76zCkE-2">
+          <mxGeometry x="45" y="540" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;انتخاب دوره ورزشی مورد نظر&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;strokeColor=#28408E;fontFamily=B Zar;fontSize=13;entryX=-0.2;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x91RRcyRa2O_VJ76zCkE-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="332.5" y="120" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="357.5" y="120" />
-            </Array>
+            <mxPoint x="41" y="349" as="sourcePoint" />
+            <mxPoint x="320" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ecLLTJah2uslzvCgLHW6-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="100" width="10" height="140" as="geometry" />
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="480" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;انتخاب گزینه ی&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;ثبت دوره&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;strokeColor=#28408E;fontFamily=B Zar;fontSize=13;entryX=-0.067;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x91RRcyRa2O_VJ76zCkE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="485" as="sourcePoint" />
+            <mxPoint x="319" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;ثبت در پایگاه داده&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontFamily=B Zar;fontSize=13;strokeColor=#28408E;entryX=0.033;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x91RRcyRa2O_VJ76zCkE-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334" y="495" as="sourcePoint" />
+            <mxPoint x="780" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;انتخاب گزینه ی&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;ثبت امتیاز&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;strokeColor=#28408E;fontSize=13;fontFamily=B Zar;entryX=-0.133;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x91RRcyRa2O_VJ76zCkE-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="560" as="sourcePoint" />
+            <mxPoint x="319" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="550" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;ثبت در پایگاه داده&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontFamily=B Zar;fontSize=13;strokeColor=#28408E;entryX=0.033;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x91RRcyRa2O_VJ76zCkE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="566" as="sourcePoint" />
+            <mxPoint x="694.6700000000001" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="490" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="560" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="340" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;strokeColor=#28408E;fontSize=13;fontFamily=B Zar;entryX=-0.3;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x91RRcyRa2O_VJ76zCkE-20">
+          <mxGeometry x="-0.7215" y="-80" relative="1" as="geometry">
+            <mxPoint x="334" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="440" y="120" />
+            </Array>
+            <mxPoint x="536.5" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-16" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;B Zar&quot;&gt;جستجو در پایگاه داده&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-17" value="&lt;font style=&quot;font-size: 13px&quot;&gt;نمایش&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left&quot;&gt;لیست جلسات مربوط به آن دوره&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeColor=#28408e;fontFamily=B Zar;fontSize=13;fontStyle=0;exitX=-0.4;exitY=0.838;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x91RRcyRa2O_VJ76zCkE-18">
+          <mxGeometry x="0.068" relative="1" as="geometry">
+            <mxPoint x="333" y="410" as="targetPoint" />
+            <mxPoint x="539" y="410" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="634" y="350" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-19" value="کاربر" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontFamily=B Zar;fontSize=13;fontStyle=1;fillColor=#BFBFBF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="100" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="110" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-22" value="&lt;font face=&quot;B Zar&quot; style=&quot;font-size: 13px&quot;&gt;دریافت مقدار&lt;br&gt;&amp;nbsp;BMI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="83" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-23" value="&lt;font style=&quot;font-size: 13px&quot;&gt;نمایش مقدار&lt;br&gt;&amp;nbsp;BMI &lt;br&gt;به همراه لیست دوره های پیشنهادی&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeColor=#28408E;fontFamily=B Zar;fontSize=13;exitX=0.1;exitY=0.879;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x91RRcyRa2O_VJ76zCkE-24" target="ecLLTJah2uslzvCgLHW6-3">
+          <mxGeometry x="-0.134" y="-7" relative="1" as="geometry">
+            <mxPoint x="334.5" y="190" as="targetPoint" />
+            <mxPoint x="634" y="190" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#5EBEA0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="120" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x91RRcyRa2O_VJ76zCkE-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;strokeColor=#28408E;fontSize=13;fontFamily=B Zar;exitX=0.967;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x91RRcyRa2O_VJ76zCkE-20">
+          <mxGeometry x="-0.7215" y="-80" relative="1" as="geometry">
+            <mxPoint x="500" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="560" y="128" />
+              <mxPoint x="560" y="128" />
+            </Array>
+            <mxPoint x="635" y="128" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
